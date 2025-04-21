@@ -16,7 +16,7 @@ Este proyecto demuestra el uso de la regresión lineal y árboles de decisión p
 - `natalidad_regression.html`: Archivo HTML para visualizar las tendencias de la tasa de natalidad en Guatemala utilizando regresión lineal.
 - `natalidad_regression.js`: Lógica en JavaScript para analizar datos CSV, entrenar el modelo de regresión lineal y visualizar los resultados.
 - `11-decision-tree.html`: Archivo HTML para visualizar la clasificación de niveles de tasa de natalidad utilizando árboles de decisión.
-- `11-decision-tree.js`: Lógica en JavaScript para procesar datos, entrenar el modelo de árbol de decisión y mostrar los resultados.
+- `fallecimientos_transito_por_sexo_decision-tree.js`: Lógica en JavaScript para procesar datos, entrenar el modelo de árbol de decisión y mostrar los resultados.
 - `11-decision-tree.css`: Estilos CSS para la visualización de los resultados del árbol de decisión.
 
 ## Requisitos
