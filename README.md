@@ -2,6 +2,10 @@
 
 Este proyecto demuestra el uso de la regresión lineal y árboles de decisión para analizar y visualizar las tendencias de la tasa de natalidad y fallecimientos en Guatemala utilizando JavaScript, Google Charts y la biblioteca MlearnJS.
 
+# Links
+- [Regresión Lineal](https://gitmedrano.github.io/IA1-machine-learning/natalidad_regression.html)
+- [Árboles de Decisión](https://gitmedrano.github.io/IA1-machine-learning/fallecimientos_transito_por_sexo_decision-tree.html)
+
 ## Características
 
 - **Regresión Lineal**: Implementa un modelo de regresión lineal para ajustar y predecir datos de tasa de natalidad.
